@@ -16,7 +16,19 @@ export default function Header() {
 
       </div>
 
-      <div></div>
+      <div className="pt-16 pb-8 relative">
+        <img className="h-110 w-60 absolute top-0 left-0 " src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/Veggies_new.png" />
+        <img className="h-110 w-60 absolute top-0 right-0 " src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/Sushi_replace.png" />
+        <div className="max-w-[60%] text-5xl text-white font-bold container mx-auto text-center">
+          Order Food and groceries. Discover best restaurants. Swiggy it!
+        </div>
+        <div className="max-w-[70%] container mx-auto flex gap-5 mt-10">
+          <input className="bg-white w-[40%] text-xl px-6 py-4 rounded-2xl" placeholder="Delhi, India" />
+          <input className="bg-white w-[55%] text-xl px-6 py-4 rounded-2xl" placeholder="Search for restaurant, item or more" />
+        </div>
+      </div>
+
+
       <div></div>
     </header>
   )
