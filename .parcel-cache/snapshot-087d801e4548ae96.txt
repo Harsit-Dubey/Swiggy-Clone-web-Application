@@ -1,8 +1,8 @@
-4255
+4259
 98C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs134126899375403476 0
 55C:\Users\91955\Desktop\Swiggy Clone\node_modules\cookie134126901442211163 1
 65C:\Users\91955\Desktop\Swiggy Clone\node_modules\clone\.npmignore134126899336660665 0
-46C:\Users\91955\Desktop\Swiggy Clone\.gitignore134127147677022408 0
+46C:\Users\91955\Desktop\Swiggy Clone\.gitignore134127161189960991 0
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\src\utils\react-is.ts134126900932646009 0
 48C:\Users\91955\Desktop\Swiggy Clone\package.json134126917219972545 0
 74C:\Users\91955\Desktop\Swiggy Clone\node_modules\@tailwindcss\node\LICENSE134126917214173223 0
@@ -39,15 +39,17 @@
 83C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\codeframe\src\codeframe.js134126899363908341 0
 76C:\Users\91955\Desktop\Swiggy Clone\node_modules\lightningcss-win32-x64-msvc134126899337924337 1
 56C:\Users\91955\Desktop\Swiggy Clone\node_modules\globals134126899347836598 1
-44C:\Users\91955\Desktop\Swiggy Clone\src\dist134127158181797520 1
+44C:\Users\91955\Desktop\Swiggy Clone\src\dist134127962804558163 1
 66C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\core\test134126899383771317 1
 48C:\Users\91955\Desktop\Swiggy Clone\node_modules134126917219914524 1
 95C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\core\lib\requests\ValidationRequest.js134126899384867379 0
 120C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd134126899407141417 0
+57C:\Users\91955\Desktop\Swiggy Clone\src\utils\FoodData.js134127915911760974 0
+97C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\feature-flags\test\feature-flags.test.js134126899336891520 0
 70C:\Users\91955\Desktop\Swiggy Clone\node_modules\lmdb\dependencies\lz4134126899356571753 1
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\BW.js134126899374954821 0
 74C:\Users\91955\Desktop\Swiggy Clone\node_modules\postcss\lib\document.d.ts134126917212552397 0
-50C:\Users\91955\Desktop\Swiggy Clone\src\Components134126924468465196 1
+50C:\Users\91955\Desktop\Swiggy Clone\src\Components134127921130617020 1
 55C:\Users\91955\Desktop\Swiggy Clone\node_modules\@lezer134126899326382523 1
 88C:\Users\91955\Desktop\Swiggy Clone\node_modules\magic-string\dist\magic-string.es.d.mts134126917212733117 0
 60C:\Users\91955\Desktop\Swiggy Clone\node_modules\ansi-styles134126899342183655 1
@@ -55,7 +57,7 @@
 84C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\_\_array_without_holes134126899385608797 1
 90C:\Users\91955\Desktop\Swiggy Clone\node_modules\lightningcss\node_modules\detect-libc\lib134126899345097117 1
 74C:\Users\91955\Desktop\Swiggy Clone\node_modules\source-map-js\lib\util.js134126917211854852 0
-39C:\Users\91955\Desktop\Swiggy Clone\src134126924302330631 1
+39C:\Users\91955\Desktop\Swiggy Clone\src134127915581790338 1
 91C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\src\connect\selectorFactory.ts134126900932672461 0
 83C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\core-win32-x64-msvc\README.md134126899333469092 0
 95C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js134126899336871588 0
@@ -63,17 +65,20 @@
 101C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-background-offsets.js134126899378607849 0
 83C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\src\_create_class.mjs134126899391023075 0
 97C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\font-unicode-range.js134126899390283911 0
-46C:\Users\91955\Desktop\Swiggy Clone\src\App.js134127129213761486 0
+46C:\Users\91955\Desktop\Swiggy Clone\src\App.js134127918619467268 0
 94C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\async-functions.js134126899367300444 0
 68C:\Users\91955\Desktop\Swiggy Clone\node_modules\postcss\lib\rule.js134126917211882999 0
 56C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel134126917219934456 1
 78C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\namer-default\LICENSE134126899333577097 0
 66C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\dist134126899404577304 1
 59C:\Users\91955\Desktop\Swiggy Clone\node_modules\semver\bin134126899367741722 1
-73C:\Users\91955\Desktop\Swiggy Clone\src\dist\Swiggy Clone.518f3808.js.map134127158181773074 0
+73C:\Users\91955\Desktop\Swiggy Clone\src\dist\Swiggy Clone.518f3808.js.map134127962804529831 0
+80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\BB.js134126899372166826 0
+55C:\Users\91955\Desktop\Swiggy Clone\node_modules\parcel134126899351224744 1
+45C:\Users\91955\Desktop\Swiggy Clone\src\utils134127915716712785 1
 116C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5134126899357116494 0
-49C:\Users\91955\Desktop\Swiggy Clone\src\index.css134126911074000239 0
-50C:\Users\91955\Desktop\Swiggy Clone\src\index.html134127126416211639 0
+49C:\Users\91955\Desktop\Swiggy Clone\src\index.css134127962801582374 0
+50C:\Users\91955\Desktop\Swiggy Clone\src\index.html134127953856924211 0
 98C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs134126899392616411 0
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr\dist\index-no-eval.cjs134126899337738559 0
 92C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-router\dist\production\dom-export.mjs134126901453520341 0
@@ -82,7 +87,7 @@
 86C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\_\_to_array\package.json134126899389608188 0
 68C:\Users\91955\Desktop\Swiggy Clone\node_modules\postcss\lib\node.js134126917211440351 0
 85C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\tls1-1.js134126899405247187 0
-55C:\Users\91955\Desktop\Swiggy Clone\src\dist\index.html134127157241356714 0
+55C:\Users\91955\Desktop\Swiggy Clone\src\dist\index.html134127962804274172 0
 96C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-text-box-trim.js134126899387777400 0
 81C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\src\_instanceof.mjs134126899392050973 0
 64C:\Users\91955\Desktop\Swiggy Clone\node_modules\lmdb\caching.js134126899378607849 0
@@ -92,7 +97,7 @@
 120C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js134126899365088797 0
 93C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\transformer-postcss\lib\constants.js134126899336871588 0
 79C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\runtime-js\lib\helpers134126899361991175 1
-70C:\Users\91955\Desktop\Swiggy Clone\src\dist\Swiggy Clone.3431e429.css134127157947960236 0
+70C:\Users\91955\Desktop\Swiggy Clone\src\dist\Swiggy Clone.3431e429.css134127962804274172 0
 85C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr\dist\unpack-no-eval.cjs.map134126899371533450 0
 108C:\Users\91955\Desktop\Swiggy Clone\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj134126899382224526 0
 100C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\error-overlay\src\components\Collapsible.js134126899345214676 0
@@ -113,7 +118,7 @@
 76C:\Users\91955\Desktop\Swiggy Clone\node_modules\weak-lru-cache\package.json134126899349431766 0
 62C:\Users\91955\Desktop\Swiggy Clone\node_modules\dotenv-expand134126899351720729 1
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\SM.js134126899404250719 0
-74C:\Users\91955\Desktop\Swiggy Clone\src\dist\Swiggy Clone.3431e429.css.map134127157948003660 0
+74C:\Users\91955\Desktop\Swiggy Clone\src\dist\Swiggy Clone.3431e429.css.map134127962804529831 0
 84C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\proxy.js134126899403314061 0
 99C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js134126899363209798 0
 56C:\Users\91955\Desktop\Swiggy Clone\node_modules\is-glob134126899337914374 1
@@ -130,7 +135,14 @@
 81C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\esm\_await_value.js134126899376004551 0
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\core\lib\public\Bundle.js134126899367421215 0
 85C:\Users\91955\Desktop\Swiggy Clone\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c134126899367451111 0
-69C:\Users\91955\Desktop\Swiggy Clone\src\dist\Swiggy Clone.518f3808.js134127158181689941 0
+69C:\Users\91955\Desktop\Swiggy Clone\src\dist\Swiggy Clone.518f3808.js134127962804274172 0
+80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\BH.js134126899372784541 0
+84C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\webvr.js134126899406281373 0
+96C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\sourcemap-codec\types\vlq.d.cts.map134126917211862224 0
+81C:\Users\91955\Desktop\Swiggy Clone\node_modules\update-browserslist-db\README.md134126899348896194 0
+75C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr-extract\README.md134126899349431766 0
+62C:\Users\91955\Desktop\Swiggy Clone\src\Components\FoodCard.js134127948023657629 0
+75C:\Users\91955\Desktop\Swiggy Clone\node_modules\nanoid\non-secure\index.js134126917211496522 0
 71C:\Users\91955\Desktop\Swiggy Clone\node_modules\magic-string\README.md134126917212345133 0
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\VE.js134126899405585831 0
 97C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\src\_class_private_field_update.mjs134126899390865431 0
@@ -138,10 +150,12 @@
 85C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\dist\react-redux.mjs.map134126900932380735 0
 95C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\_\_iterable_to_array\package.json134126899388804385 0
 88C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\packager-css\lib\CSSPackager.js134126899336881554 0
-60C:\Users\91955\Desktop\Swiggy Clone\src\Components\Header.js134127158180009113 0
+60C:\Users\91955\Desktop\Swiggy Clone\src\Components\Header.js134127918712729892 0
 67C:\Users\91955\Desktop\Swiggy Clone\node_modules\scheduler\index.js134126900426687596 0
 77C:\Users\91955\Desktop\Swiggy Clone\node_modules\chrome-trace-event\README.md134126899340352650 0
 76C:\Users\91955\Desktop\Swiggy Clone\node_modules\tailwindcss\dist\plugin.mjs134126902164204539 0
+124C:\Users\91955\Desktop\Swiggy Clone\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js134126899342138169 0
+64C:\Users\91955\Desktop\Swiggy Clone\src\Components\FoodOption.js134127948741662701 0
 61C:\Users\91955\Desktop\Swiggy Clone\node_modules\@tailwindcss134126917219914524 1
 69C:\Users\91955\Desktop\Swiggy Clone\node_modules\postcss-value-parser134126899349770429 1
 84C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\http2.js134126899394083194 0
@@ -200,13 +214,6 @@
 70C:\Users\91955\Desktop\Swiggy Clone\node_modules\tailwindcss\README.md134126902163796513 0
 58C:\Users\91955\Desktop\Swiggy Clone\node_modules\@mischnic134126899326120784 1
 65C:\Users\91955\Desktop\Swiggy Clone\node_modules\term-size\vendor134126899345214676 1
-99C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-display-contents.js134126899380455096 0
-65C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr-extract134126899348910082 1
-80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\HK.js134126899393567844 0
-99C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\sourcemap-codec\src\sourcemap-codec.ts134126917212225753 0
-80C:\Users\91955\Desktop\Swiggy Clone\node_modules\@tailwindcss\oxide\package.json134126917213552468 0
-71C:\Users\91955\Desktop\Swiggy Clone\node_modules\update-browserslist-db134126899349723293 1
-83C:\Users\91955\Desktop\Swiggy Clone\node_modules\source-map-js\lib\binary-search.js134126917211071170 0
 79C:\Users\91955\Desktop\Swiggy Clone\node_modules\semver\internal\identifiers.js134126899358875601 0
 77C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\dist\rsc.mjs.map134126900932482544 0
 73C:\Users\91955\Desktop\Swiggy Clone\node_modules\graceful-fs\polyfills.js134126917211024386 0
@@ -219,11 +226,11 @@
 70C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr\package.json134126899364551350 0
 66C:\Users\91955\Desktop\Swiggy Clone\node_modules\@msgpackr-extract134126917219934456 1
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\FI.js134126899389831382 0
-55C:\Users\91955\Desktop\Swiggy Clone\node_modules\nanoid134126917211948775 1
-53C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc134126917219924489 1
-87C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\template.js134126899405066047 0
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\ttf.js134126899405335788 0
 61C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite134126899406762076 1
+53C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc134126917219924489 1
+87C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\template.js134126899405066047 0
+55C:\Users\91955\Desktop\Swiggy Clone\node_modules\nanoid134126917211948775 1
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\LU.js134126899399050563 0
 76C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\reporter-dev-server134126899363755852 1
 88C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\remapping\types\types.d.cts134126917211108066 0
@@ -305,6 +312,13 @@
 76C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\utils\src\config.js134126899355764735 0
 56C:\Users\91955\Desktop\Swiggy Clone\node_modules\tapable134126917211820485 1
 65C:\Users\91955\Desktop\Swiggy Clone\node_modules\tailwindcss\dist134126902164399650 1
+99C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-display-contents.js134126899380455096 0
+65C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr-extract134126899348910082 1
+80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\HK.js134126899393567844 0
+99C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\sourcemap-codec\src\sourcemap-codec.ts134126917212225753 0
+80C:\Users\91955\Desktop\Swiggy Clone\node_modules\@tailwindcss\oxide\package.json134126917213552468 0
+71C:\Users\91955\Desktop\Swiggy Clone\node_modules\update-browserslist-db134126899349723293 1
+83C:\Users\91955\Desktop\Swiggy Clone\node_modules\source-map-js\lib\binary-search.js134126917211071170 0
 90C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-router\dist\development\index.d.mts134126901456577841 0
 66C:\Users\91955\Desktop\Swiggy Clone\node_modules\parcel\src\cli.js134126899346112135 0
 67C:\Users\91955\Desktop\Swiggy Clone\node_modules\color-name\LICENSE134126899337255788 0
@@ -336,8 +350,6 @@
 106C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js134126900427327745 0
 87C:\Users\91955\Desktop\Swiggy Clone\node_modules\utility-types\dist\mapped-types.js.map134126899354502048 0
 63C:\Users\91955\Desktop\Swiggy Clone\node_modules\ordered-binary134126899356476742 1
-80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\BB.js134126899372166826 0
-55C:\Users\91955\Desktop\Swiggy Clone\node_modules\parcel134126899351224744 1
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\utils\test\config.test.js134126899356466775 0
 98C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-text-align-last.js134126899387747457 0
 59C:\Users\91955\Desktop\Swiggy Clone\node_modules\picocolors134126899348085136 1
@@ -452,9 +464,9 @@
 69C:\Users\91955\Desktop\Swiggy Clone\node_modules\weak-lru-cache\tests134126899346121978 1
 67C:\Users\91955\Desktop\Swiggy Clone\node_modules\picomatch\posix.js134126899348531549 0
 100C:\Users\91955\Desktop\Swiggy Clone\node_modules\scheduler\cjs\scheduler-unstable_mock.production.js134126900426867679 0
+98C:\Users\91955\Desktop\Swiggy Clone\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile134126899358776083 0
 70C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\namer-default134126899341476812 1
 101C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-router\dist\development\browser-BEPxnEBW.d.mts134126901456059275 0
-98C:\Users\91955\Desktop\Swiggy Clone\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile134126899358776083 0
 98C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\core\test\fixtures\custom-format-mismatch134126899385893916 1
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\weak-lru-cache\tests\benchmark.js134126899336911854 0
 93C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\rel-noreferrer.js134126899403577486 0
@@ -500,9 +512,9 @@
 94C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\transformer-postcss\lib\loadConfig.js134126899341411609 0
 69C:\Users\91955\Desktop\Swiggy Clone\node_modules\type-fest\index.d.ts134126899359085549 0
 91C:\Users\91955\Desktop\Swiggy Clone\node_modules\utility-types\dist\aliases-and-guards.d.ts134126899358930152 0
-89C:\Users\91955\Desktop\Swiggy Clone\node_modules\utility-types\dist\aliases-and-guards.js134126899336834556 0
-95C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\speech-synthesis.js134126899404440293 0
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\TC.js134126899404985940 0
+95C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\speech-synthesis.js134126899404440293 0
+89C:\Users\91955\Desktop\Swiggy Clone\node_modules\utility-types\dist\aliases-and-guards.js134126899336834556 0
 91C:\Users\91955\Desktop\Swiggy Clone\node_modules\utility-types\dist\functional-helpers.d.ts134126899359168250 0
 71C:\Users\91955\Desktop\Swiggy Clone\node_modules\color-convert\index.js134126899339845254 0
 89C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\esm\_array_like_to_array.js134126899375537101 0
@@ -665,12 +677,6 @@
 86C:\Users\91955\Desktop\Swiggy Clone\node_modules\magic-string\dist\magic-string.cjs.js134126917211693336 0
 84C:\Users\91955\Desktop\Swiggy Clone\node_modules\update-browserslist-db\package.json134126899346121978 0
 78C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr-extract\package.json134126899348045081 0
-80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\BH.js134126899372784541 0
-84C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\webvr.js134126899406281373 0
-96C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\sourcemap-codec\types\vlq.d.cts.map134126917211862224 0
-81C:\Users\91955\Desktop\Swiggy Clone\node_modules\update-browserslist-db\README.md134126899348896194 0
-75C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr-extract\README.md134126899349431766 0
-75C:\Users\91955\Desktop\Swiggy Clone\node_modules\nanoid\non-secure\index.js134126917211496522 0
 84C:\Users\91955\Desktop\Swiggy Clone\node_modules\type-fest\source\promise-value.d.ts134126899364408175 0
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\LY.js134126899399070598 0
 108C:\Users\91955\Desktop\Swiggy Clone\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c134126899370217388 0
@@ -1016,17 +1022,17 @@
 79C:\Users\91955\Desktop\Swiggy Clone\node_modules\nanoid\non-secure\package.json134126917211796379 0
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\AD.js134126899349746326 0
 81C:\Users\91955\Desktop\Swiggy Clone\node_modules\source-map-js\lib\source-node.js134126917211807805 0
-74C:\Users\91955\Desktop\Swiggy Clone\node_modules\set-cookie-parser\LICENSE134126901441506874 0
+73C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-dom\static.edge.js134126900428203573 0
 87C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\packager-js\lib\dev-prelude.js134126899341491340 0
 95C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\error-overlay\src\components\Footer.js134126899349404370 0
 95C:\Users\91955\Desktop\Swiggy Clone\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c134126899372569164 0
-73C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-dom\static.edge.js134126900428203573 0
+74C:\Users\91955\Desktop\Swiggy Clone\node_modules\set-cookie-parser\LICENSE134126901441506874 0
 76C:\Users\91955\Desktop\Swiggy Clone\node_modules\set-cookie-parser\README.md134126901442144483 0
 84C:\Users\91955\Desktop\Swiggy Clone\node_modules\set-cookie-parser\lib\set-cookie.js134126901441506874 0
 79C:\Users\91955\Desktop\Swiggy Clone\node_modules\chrome-trace-event\LICENSE.txt134126899346155362 0
-64C:\Users\91955\Desktop\Swiggy Clone\node_modules\semver\index.js134126899360166616 0
-101C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs.map134126917212205724 0
 95C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\esm\_skip_first_generator_next.js134126899381200733 0
+101C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs.map134126917212205724 0
+64C:\Users\91955\Desktop\Swiggy Clone\node_modules\semver\index.js134126899360166616 0
 73C:\Users\91955\Desktop\Swiggy Clone\node_modules\nanoid\index.browser.cjs134126917210917973 0
 93C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\esm\_class_private_field_get.js134126899377282718 0
 78C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\trace-mapping\src134126917212744479 1
@@ -1129,8 +1135,6 @@
 101C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-router\dist\development\index-react-server.mjs134126901454026725 0
 78C:\Users\91955\Desktop\Swiggy Clone\node_modules\@mischnic\json-sourcemap\dist134126899346441875 1
 74C:\Users\91955\Desktop\Swiggy Clone\node_modules\semver\functions\rsort.js134126899367289311 0
-80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\IR.js134126899398140648 0
-94C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\src\connect\mapDispatchToProps.ts134126900932607566 0
 106C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs134126899390925551 0
 71C:\Users\91955\Desktop\Swiggy Clone\node_modules\msgpackr\node-index.js134126899359867017 0
 87C:\Users\91955\Desktop\Swiggy Clone\node_modules\ordered-binary\.nyc_output\processinfo134126899352992897 1
@@ -1266,8 +1270,8 @@
 110C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-router\dist\development\index-react-server-client.d.mts134126901456337849 0
 94C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\transformer-css\lib\CSSTransformer.js134126899336967819 0
 98C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-optional-pseudo.js134126899386132789 0
-109C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-router\dist\development\index-react-server-client.d.ts134126901457433138 0
 85C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\src\hooks\useSelector.ts134126900932727168 0
+109C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-router\dist\development\index-react-server-client.d.ts134126901457433138 0
 107C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-router\dist\development\index-react-server-client.js134126901451597121 0
 116C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\_\_class_static_private_field_destructure\package.json134126899387503271 0
 68C:\Users\91955\Desktop\Swiggy Clone\node_modules\ordered-binary\dist134126899336660665 1
@@ -1328,6 +1332,8 @@
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\src\hooks\useStore.ts134126900932740470 0
 86C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\helpers\cjs\_to_property_key.cjs134126899374447290 0
 93C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\src\connect\invalidArgFactory.ts134126900932593346 0
+80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\IR.js134126899398140648 0
+94C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\src\connect\mapDispatchToProps.ts134126900932607566 0
 64C:\Users\91955\Desktop\Swiggy Clone\node_modules\globals\license134126899333469092 0
 79C:\Users\91955\Desktop\Swiggy Clone\node_modules\@lezer\common\dist\index.d.cts134126899344082356 0
 91C:\Users\91955\Desktop\Swiggy Clone\node_modules\react-redux\src\connect\mapStateToProps.ts134126900932621366 0
@@ -1636,8 +1642,8 @@
 97C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js.flow134126899336871588 0
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\reporter-cli\src\utils.js134126899358338875 0
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\ordered-binary\rollup.config.js134126899345214676 0
-74C:\Users\91955\Desktop\Swiggy Clone\node_modules\dotenv-expand\lib\main.js134126899337442398 0
 100C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js134126917211496522 0
+74C:\Users\91955\Desktop\Swiggy Clone\node_modules\dotenv-expand\lib\main.js134126899337442398 0
 95C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\trace-mapping\types\sort.d.mts.map134126917211948775 0
 96C:\Users\91955\Desktop\Swiggy Clone\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md134126899380195614 0
 89C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\profiler\lib\SamplingProfiler.js134126899345214676 0
@@ -1706,7 +1712,6 @@
 119C:\Users\91955\Desktop\Swiggy Clone\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\package.json134126899348356285 0
 69C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\packager-css134126899341782046 1
 86C:\Users\91955\Desktop\Swiggy Clone\node_modules\@swc\core-win32-x64-msvc\package.json134126899336719389 0
-124C:\Users\91955\Desktop\Swiggy Clone\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js134126899342138169 0
 83C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\core\lib\ReporterRunner.js134126899378760283 0
 88C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\objectrtc.js134126899402346593 0
 72C:\Users\91955\Desktop\Swiggy Clone\node_modules\node-addon-api\index.js134126899359649561 0
@@ -2386,7 +2391,6 @@
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\IS.js134126899398152314 0
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\JM.js134126899398190150 0
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\reporter-cli\src\emoji.js134126899355850618 0
-90C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\sql-storage.js134126899404500915 0
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\regions\KE.js134126899398346997 0
 100C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\native-filesystem-api.js134126899401227671 0
 85C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\run-in.js134126899403814629 0
@@ -2596,8 +2600,8 @@
 92C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-clip-path.js134126899378950784 0
 77C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\workers\src\index.js134126899362505386 0
 95C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-color-adjust.js134126899379041160 0
-97C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-color-function.js134126899379100691 0
 97C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs134126917212562786 0
+97C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-color-function.js134126899379100691 0
 98C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-conic-gradients.js134126899379120726 0
 93C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\object-entries.js134126899402125484 0
 100C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\css-container-queries.js134126899379172279 0
@@ -2848,6 +2852,7 @@
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\sni.js134126899404336616 0
 97C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\speech-recognition.js134126899404430291 0
 99C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\spellcheck-attribute.js134126899404463656 0
+90C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\sql-storage.js134126899404500915 0
 85C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\srcset.js134126899404548819 0
 85C:\Users\91955\Desktop\Swiggy Clone\node_modules\caniuse-lite\data\features\stream.js134126899404624356 0
 85C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\core\src\summarizeRequest.js134126899380142948 0
@@ -3564,8 +3569,8 @@
 75C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\workers\lib\bus.js134126899341399009 0
 82C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\workers\lib\childState.js134126899351192720 0
 83C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\workers\lib\core-worker.js134126899356419922 0
-75C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\graph\package.json134126899363461991 0
 87C:\Users\91955\Desktop\Swiggy Clone\node_modules\@jridgewell\trace-mapping\src\types.ts134126917212744479 0
+75C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\graph\package.json134126899363461991 0
 80C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\workers\lib\cpuCount.js134126899357386730 0
 76C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\workers\lib\process134126899364506792 1
 76C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\workers\lib\threads134126899366780939 1
@@ -3941,7 +3946,6 @@
 83C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\feature-flags\package.json134126899349703354 0
 75C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\feature-flags\test134126899336780557 1
 114C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json134126899386380149 0
-97C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\feature-flags\test\feature-flags.test.js134126899336891520 0
 83C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\feature-flags\src\index.js134126899342948550 0
 67C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\events\lib134126899355072458 1
 76C:\Users\91955\Desktop\Swiggy Clone\node_modules\@parcel\events\package.json134126899356490009 0
