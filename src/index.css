@@ -1,24 +1,5 @@
 @import "tailwindcss";
 
-/* * {
-  outline: 1px solid red;
-}
-
-
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  position: relative;
-}
-
-
-html, body {
-  width: 100%;
-  overflow-x: hidden;
-  margin-right: 0;
-} */
 
 html, body {
   margin: 0;
