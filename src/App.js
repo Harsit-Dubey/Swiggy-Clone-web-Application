@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./Components/Header";
 import FoodOption from "./Components/FoodOption";
+import GroceryOption from "./Components/GroceryOption";
 
 //Header section: Let's build it
 
@@ -11,6 +12,7 @@ function App() {
     <>
       <Header></Header>
       <FoodOption></FoodOption>
+      <GroceryOption></GroceryOption>
     </>
   )
 }
