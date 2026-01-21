@@ -11,5 +11,15 @@ export default function DineCard({ RestData }) {
         </div>
       </a>
     </div>
+
   )
 }
+
+
+
+
+
+
+
+
+//260310464560 : Chiku@1234
